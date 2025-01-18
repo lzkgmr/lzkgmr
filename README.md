@@ -15,4 +15,5 @@ I am Software engineer student <br/>
 ### Based
 in Moscow, Russia
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lzkgmr)](https://git.io/streak-stats)
+markdown
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
