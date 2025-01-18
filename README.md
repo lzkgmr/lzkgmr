@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FEAC5E,50:C779d0,100:4bc0c8)
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hi!%2C+it's+Elizaveta+Khromova;Software+Engineer" alt="Software Engineer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hi!%2C+it's+Elisaveta+Khromova;Software+Engineer" alt="Software Engineer"/>
 </a>
 
 ### Main skills
