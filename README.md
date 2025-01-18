@@ -15,5 +15,4 @@ I am Software engineer student <br/>
 ### Based
 in Moscow, Russia
 
-markdown
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzkgmr&show_icons=true&theme=radical)
