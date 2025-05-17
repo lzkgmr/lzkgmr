@@ -5,7 +5,7 @@
 </a>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,swift,git,docker,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,cpp,cs,dotnet,git,docker,matlab)](https://skillicons.dev)
 
 ### Studying
 I am Software engineer student <br/>
